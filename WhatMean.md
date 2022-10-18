@@ -1,8 +1,8 @@
 # English Notes
 - [] there's a tunnel near by
-- [] a
-- [] a
-- [] a
+- [] akward
+- [] indeed
+- [] figured out
 - [] a
 - [] a
 - [] a
