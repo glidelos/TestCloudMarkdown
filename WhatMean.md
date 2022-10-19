@@ -3,7 +3,7 @@
 - [] akward
 - [] indeed
 - [] figured out
-- [] a
-- [] a
+- [] If you want refactoring, do it
+- [] by way / any way
 - [] a
 - [] a
